@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScreenShotService</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/1044960115</string>
+    <string name="notify_record">Record</string>
+    <string name="notify_stop">Stop</string>
+    <string name="notify_shutdown">Shutdown</string>
+</resources>
